@@ -1,0 +1,158 @@
+13.txt
+La c (en mayúscula C, nombre ce, plural ces) es la tercera letra del alfabeto español y del alfabeto latino básico y la segunda de sus consonantes.
+No debe confundirse con С, letra cirílica que proviene de la letra griega sigma.
+
+
+== Historia ==
+
+La C tiene el mismo origen que la letra G, que proviene de esta. Los semitas (entre ellos: fenicios, árabes y hebreos) la nombraron gimel y su forma deriva posiblemente del jeroglífico egipcio con forma de honda, que es tal vez el significado de la palabra gimel. Otra posibilidad es que el carácter con forma de triángulo sin base representaba la joroba de un camello, llamado gamal en idioma semita.
+La Gamma (Γ) griega fue adoptada por el alfabeto etrusco, donde representaba el sonido /k/. En los alfabetos griegos arcaicos, Gamma tomó primero la forma '' en el etrusco temprano, y luego la forma '' en el etrusco clásico. Mientras que en latín, finalmente tomó la forma 'c' en el latín clásico. En los textos latinos tempranos, las letras c k q fueron usadas para representar los sonidos /k/ y /g/. De estas, 'q' era usada para representar los sonidos /k/ y /ɡ/ antes de una vocal redondeada (O, U), 'k' antes de 'a' y 'c' en los demás casos (E, I).[1]​ 
+Durante el siglo III el liberto Espurio Carvilio (antes esclavo del cónsul Espurio Carvilio Ruga) decidió agregar un pequeño rasgo al carácter C para formar una nueva letra que representara únicamente al sonido /ɡ/. Así nació la G, dejando a la 'C' con el sonido /k/. El uso de la C y de su variante, la G, reemplazó el uso que se le daba a la Q y la K. Debido a ello, durante el periodo clásico y después de este, la G fue tratada como el equivalente de la Gamma griega, y la C, con unas pocas excepciones, como el equivalente de kappa. Esto se ve en palabras griegas como ΚΑΔΜΟΣ, ΚΥΡΟΣ, y ΦΩΚΙΣ, que en latín pasaron a escribirse: cadmvs, cyrvs y phocis respectivamente.
+
+
+== Uso ==
+
+
+=== En latín ===
+En latín clásico, al contrario que en español y en las otras lenguas romances actuales, la C se pronunciaba con el mismo sonido ante todas las vocales: el de una oclusiva velar sorda (/k/), por lo que las sílabas "ce" y "ci" se pronunciaban tal como pronunciamos "que" y "qui".
+Antes del siglo IV antes de Cristo, también servía para representar el sonido de una consonante oclusiva velar sonora (/g/), por lo que la misma escritura (por ejemplo, «ca») tenía dos pronunciaciones (/ka/ y /ga/). Para resolver esta ambigüedad, se creó la letra G añadiendo un pequeño trazo vertical en el brazo inferior de la C.
+
+
+==== Palatalización de ce y ci en latín tardío ====
+En latín vulgar y en el primer latín clásico, la pronunciación de la C vacilaba entre una /k/ velar (como en casa) y una /k/ palatal (como en quiero). También la G adoptó dos variantes: velar (como en "galgo") y palatal (como en "guiemos", pronunciado rápido). Esta vacilación velar/palatal fue heredada del latín vulgar a las lenguas romances (español, francés, italiano, etc.).
+Obsérvese que el punto de articulación velar de /k/ y /g/ (se pronuncian "en la garganta") resulta muy lejano al de los sonidos /e/ e /i/, que se pronuncian acercando la lengua al paladar. Por eso, con el tiempo, estos sonidos procedentes del latín vulgar acabaron haciéndose palatales en las posiciones "ce", "ci", "ge", "gi", y se mantuvieron velares en los demás casos. Como resultado de la palatalización, /k/ evolucionó a /tʃ/ en rumano, italiano y dálmata; y a /ts/ en las formas medievales de las lenguas de Francia y la península ibérica. Mientras que /g/ evolucionó a /ʒ/ en español medieval y francés y a /dʒ/ en italiano y latín eclesiástico: 
+
+ce: /tse/ (español y francés medieval), /t͡ʃe/ (italiano y latín eclesiástico).
+ci: /tsi/ (español y francés medieval), /t͡ʃi/ (italiano y latín eclesiástico).
+ge: /ʒe/ (español medieval y francés), /d͡ʒe/ (italiano y latín eclesiástico).
+gi: /ʒi/ (español medieval y francés), /d͡ʒi/ (italiano y latín eclesiástico).
+
+
+=== En español ===
+En español, a la anterior evolución le siguió una segunda: se produjo un desplazamiento de la c hacia una fricativa dental sorda (/θ/) interdental. Esta es la pronunciación que se conoce en el dialecto castellano actual: ce /θe/.[2]​ La pronunciación de la c y la g se consolidó en la Castilla del siglo XVI, y quizás por este motivo no llegó a cuajar en algunas partes de Andalucía, ni en Canarias ni en América, donde se sesea: ce /se/ y ci /si/. En cuanto a los sonidos de /ʒe/ y /ʒi/, en castellano y gallego evolucionaron a /ʃe/ y /ʃi/, con una ulterior evolución en castellano a /xe/ y /xi/, es decir el sonido de la j española.
+En español, la C tiene un valor fonético fuerte de /k/ y un valor suave de /θ/ o /s/. En italiano y rumano, el valor suave de la C es /t͡ʃ/. En portugués, catalán y francés, el valor suave se pronuncia /s/. 
+En español, representa el valor fuerte cuando está seguida de las vocales a, o y u (ca, co, cu), o de consonantes; y al valor suave cuando va antes de las vocales anteriores e e i (ce, ci). La pronunciación /s/ se da en la mayoría de los dialectos del español, en Hispanoamérica, en el sur de España (partes de Andalucía) y en la totalidad de las Islas Canarias. Mientras que en el resto de Andalucía, el centro y norte de España y en gran parte de Guinea Ecuatorial, el valor suave de la C es pronunciado como una fricativa dental sorda (/θ/).
+Además, en español, francés, portugués, italiano y rumano, existe el dígrafo 'ch'. En español, este representa al fonema africado /ʧ/, al fonema /ʃ/ en francés y portugués, y al fonema /k/ en italiano y rumano. En español, durante largo tiempo se alfabetizó a este dígrafo aparte como si se tratase de una letra en sí, hasta que en el X Congreso de Academias de la Lengua Española (celebrado en Madrid en abril de 1994) se decidió abolir este uso, al igual que el de la ll, pasándose entonces a alfabetizarlo bajo la C como mera sucesión de dos letras.
+
+
+==== Reglas ortográficas ====
+En español de América y Canarias, la S y la C tienen el mismo sonido cuando van antes de las vocales "e" "i". Además, también la X es homófona a la doble c cuando va antes de las mismas vocales. Esto evita saber con certeza qué palabras terminan en "sión" o en "ción", y cuales terminan en "xión" o "cción".
+Sin embargo, aunque existen varias excepciones, en términos generales podemos decir que:[3]​[4]​[5]​
+
+Terminan en ción las palabras afines a otras terminadas en to, tor, torio, tivo, do, dor y afines a verbos terminados en ar, menos las que terminan en "sar". Algunas excepciones: fisión, eclosión, visión, confusión, conexión, crucifixión.Nótese además que: terminan con "cción" las palabras con palabras afines que contienen la partícula "ct".[6]​ 
+Ejemplo:
+Mientras que terminan en "sión" las palabras con palabras afines terminadas en so, sor, sorio, sivo, sar, tir, dir. Algunas excepciones: deglución, superstición, petición, medición, improvisación. Ejemplo:Por otro lado:
+
+Terminan en xión aquellas que proceden de palabras terminadas en xo y jo, más otras pocas. El resto terminará en cción. Ejemplo: anexión - nexo, inconexión - inconexo, crucifixión - crucifijo (a pesar de que también se le relacione "crucificar"), complexión - complejo, reflexión - reflejo.
+
+
+=== En otros idiomas ===
+Cuando el alfabeto romano fue introducido en Bretaña, la C representaba solamente el sonido /k/, valor que aún se conserva en los préstamos lingüísticos de todas las lenguas celtas insulares; en galés, irlandés y gaélico escocés, la C representa solo el sonido /k/. La escritura del inglés antiguo o "idioma anglo-sajón" fue aprendida de los celtas, aparentemente de Irlanda, por lo que la C en inglés antiguo representaba originalmente solo el sonido /k/. Palabras del actual inglés, como kin, break, broken, thick y seek, proceden de palabras que en inglés antiguo se escribían con "c": cyn, brecan, brocen, þicc, y séoc. Posteriormente el sonido /k/ que antecedía a las vocales palatales /e/ y /i/) fue palatalizado, habiendo sido cambiado en el siglo X al sonido [tʃ] (de chocolate), aunque se siguió usando la C, que ahora representaba dos sonidos.
+En el idioma normando se usaron la 'K' y la 'C' indistintamente para representar el sonido /k/, independientemente de la vocal que le siguiera. La convención de usar ambas letras fue aplicada a la escritura del inglés luego de la conquista normanda de Inglaterra, causando una considerable reescritura de muchas de las palabras del inglés antiguo. Así, mientras en inglés antiguo se mantuvieron inalterables palabras como candel, clif, corn, crop, cú, otras como Cent, cæ'ᵹ (cé'ᵹ), cyng, brece, séoce, fueron cambiadas (sin modificación alguna en su pronunciación) a Kent, keȝ, kyng, breke y seoke.
+El dígrafo del antiguo inglés "cw" fue también reemplazado por el francés "qu", así cwén (queen) y cwic (quick) se volvieron quen y quik en el inglés medio. El sonido /tʃ/, proveniente de la palatalización de /k/ en el inglés antiguo, surgió también en el francés, principalmente cuando le seguía una "a". En francés, este sonido fue representado por el dígrafo "ch", ortografía que luego fue adoptada por el inglés. Por ejemplo, en los "Evangelios de Hatton" (Los evangelios canónicos traducidos a sajón occidental), escritos por el año 1160, se encuentran en Mateo i-iii palabras como child o chyld, riche y mychel, traducidas de cild, rice y mycel; palabras del antiguo inglés del que fueron copiadas. También, en algunas pocas palabras del inglés antiguo, la C fue sustituida por "ts": milce, blecien por miltse, bletsien. También la C comenzó a ingresar ampliamente al inglés a través de palabras procedentes del francés, como processiun, emperice, grace, ahora con su nuevo valor fonético de /ts/. Para el siglo XIII tanto en Francia como en Inglaterra, el sonido /ts/ de la C se desfricativizó a /s/ al anteceder vocales anteriores; como en lance, cent.
+En todas las lenguas baltoeslavas que usan el alfabeto latino, así como en el albanés, húngaro, pastún, varias lenguas sami, en el esperanto, ido, interlingua, y en el alfabeto fonético americanista (y en aquellos lenguajes aborígenes de América cuya ortografía deriva de este) se usa la C para representar el sonido /t͡s/, la africada sibilante alveolar sorda o la africada sibilante dental sorda. En pinyin (lenguaje usado para representar los sonidos del idioma chino), la C representa una versión aspirada de este sonido.
+Entre los idiomas no europeos que han adoptado el alfabeto latino, la C representa una variedad de sonidos. En el yupik, indonesio, malayo, y un número de lenguas africanas como el hausa, el fula, y las lenguas mandinga, representa el mismo valor suave que en italiano, /t͡ʃ/. En azerí, kurdo, tártaro, y turco la C representa la contraparte de este sonido, una africada postalveolar sonora /d͡ʒ/. En yabem y lengujaes similares, como el bukawa, la C representa una oclusiva glotal /ʔ/. Los idiomas xhosa y zulú usan la C para representar el chasquido consonántico /ǀ/. En algunos lenguajes africanos, como el yoruba, la C tiene el valor de /ʃ/. En idioma fiyiano, representa una fricativa dental sonora /ð/, mientras que en somalí tiene el valor de una fricativa faríngea sonora /ʕ/.
+La C es también usada como transliteración de la letra cirílica 'ц' en la forma latina del alfabeto cirílico serbio, macedonio y, a veces, ucraniano.
+
+
+==== En inglés ====
+En idioma inglés la C generalmente representa un valor fonético de /s/ antes de las vocales "e", "i", de la "y" y de los dígrafos derivados del latín: "ae" y "oe"; y un valor "fuerte" de /k/ antes de "a", "o" y "u". Sin embargo, existen muchas excepciones en inglés, como en la palabra "soccer". 
+En la partícula "ci," la C puede representar un sonido de /ʃ/ si precede a una vocal, tal es el caso de las palabras delicious y appreciate. 
+El dígrafo 'Ch' representa comúnmente el sonido /tʃ/, igual que en español, pero puede tomar el valor de /k/, principalmente en palabras de origen griego, y el valor de /ʃ/, principalmente en palabras de origen francés. En algunos dialectos del inglés, toma también el sonido /x/, como en loch, (de origen gaélico) donde otros hablantes pronuncian la "ch" como /k/.
+El dígrafo "ck" frecuentemente representa el sonido /k/ después de vocales cortas. Mientras que el trígrafo "tch" siempre representa el sonido tʃ, como en catch.
+
+
+=== Como símbolo ===
+La "C" mayúscula representa:
+
+A una nota musical en notación anglosajona, el "Do".
+A una nota calificativa, en varios centros educativos del mundo; "C" es la tercera nota más alta del sistema basado en letras que van de la "A" a la "F".
+En matemáticas:
+Al coeficiente binomial.
+Al valor 12 decimal, en el sistema de numeración hexadecimal.
+Al valor 100, en el sistema de numeración romana.
+En física:
+A la capacidad eléctrica.
+A la unidad de carga eléctrica, el culombio.
+En química:
+A un elemento químico, el carbono.
+A un nutriente esencial, la vitamina C.
+A una de las cinco bases nitrogenadas que se hallan en el ADN, la citosina.
+En aeronáutica:
+A los aviones de carga, que siempre llevan esta letra en su nombre.
+En computación:
+Al lenguaje de programación C.La "c" minúscula representa:
+
+En física:
+A la velocidad de la luz.
+Al prefijo centi, que indica un factor de 10-2.Se usa también una C modificada o acompañada de algún otro elemento en los siguientes símbolos:
+
+°C : una C antecedida por "°", símbolo del grado Celsius.
+ℂ : una C con doble línea, símbolo de los números complejos:
+
+  
+    
+      
+        
+          
+            c
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {c}}}
+   : una C minúscula tipo Fraktur, símbolo de la cardinalidad del continuo.
+ɕ : una C con un rizo, símbolo del sonido sibilante alveolo-palatal sordo.
+ʗ : una C alargada, símbolo de los sonidos de clics alveolares o postalveolares.
+En música, para representar los compases de 4/4 (C) y 2/2 (₵).
+En el símbolo de los derechos de autor (copyright) e, invertida en espejo, también en el símbolo de copyleft.
+En símbolos monetarios:
+¢ : símbolo del centavo.
+₡ : símbolo del colón costarricense.
+₵ : símbolo del cedi, moneda de Ghana.
+₢ : símbolo del cruzeiro, antigua moneda de Brasil.
+
+
+== Derivadas ==
+Ç ç : C cedilla o "ce caudata", usada en varios alfabetos.
+Ĉ ĉ : C con acento circunflejo, usada en el alfabeto esperanto.
+С с : C cirílica, usada en el alfabeto cirílico. Idéntica en forma a la C, pero equivalente a la S latina.
+Ć ć : C con acento agudo, usada en varios idiomas.
+Č č : C con anticircunflejo, usada en checo, eslovaco, esloveno y croata, principalmente.
+C̃ c̃ : C con virgulilla.
+Ċ ċ : C con un punto, usada en el idioma maltés.
+Ƈ ƈ : C con un gancho, usada en lenguajes africanos.
+C̈ c̈ : C con diéresis, usada en el idioma checheno.
+
+
+== Representaciones alternativas ==
+En alfabeto fonético aeronáutico se le asigna la palabra Charlie.
+En código Morse es:  — • — • 
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Unicode ==
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre C.
+ Wikcionario  tiene definiciones y otra información sobre c.
+Diccionariosdigitales: letra C.

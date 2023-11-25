@@ -1,0 +1,46 @@
+11.txt
+Un indicador ordinal es un símbolo escrito utilizado para denotar números ordinales en algunos idiomas. En la escritura de diversas lenguas este indicador sigue a un número que denota un número ordinal para distinguirlo de uno cardinal. En el idioma español, históricamente se formó a partir de la última letra (º y ª) o grupo de letras (ᵒˢ, ᵃˢ y ᵉʳ) del nombre del ordinal que representa, por lo que la tipografía utilizada varía de acuerdo con el idioma. En español y francés los indicadores ordinales se escriben con letra volada, no así en idiomas como el inglés.
+
+
+== Uso en los números ordinales ==
+
+
+=== Español ===
+Los indicadores ordinales º, ᵉʳ y ª se añaden al numeral en español dependiendo de si el género gramatical es masculino o femenino. Algunas tipografías pueden subrayar los indicadores, pero esto no es omnipresente (en las tipografías digitales, esto depende de la fuente: Cambria y Calibri, por ejemplo, tienen indicadores ordinales subrayados; la mayoría de las otras fuentes no lo hacen).
+Con todo, para evitar confusiones, en el español prescriben la colocación de un punto entre el número y el indicador ordinal: 1.º (primero), 2.º (segundo), 3.º (tercero), etc.[1]​
+Se utiliza «ᵉʳ» cuando los números ordinales «1.º», «3.º» y los que terminen en estos están antepuestos a un sustantivo masculino singular: 1.ᵉʳ distrito, 3.ᵉʳ establecimiento, 103.ᵉʳ aniversario.
+
+
+==== Ejemplos ====
+
+—y también el uso de éstos en los números ordinales femeninos:
+
+
+=== Francés ===
+Estas lenguas utilizan una variedad de sufijos dispuestos en forma volada siempre que es posible y sin punto abreviativo intercalado.
+Los sufijos utilizados en el francés son:
+
+-er para el número 1 si el objeto calificado es masculino (p. ej.: 1er — premier)
+-re para el número 1 si el objeto calificado es femenino (p. ej.: 1re — première)
+-e o -ème para todos los otros números (p. ej.: 2e — deuxième)
+Se añade una s para pluralizar (p. ej.: 1res — premières; 2ds — seconds)Para el número 2 también existen las formas masculinas 2nd, a partir de second, y femenina 2nde, a partir de seconde.
+
+
+=== Catalán ===
+La lengua catalana señala los ordinales mediante simples abreviaturas compuestas con la cifra y, en función de si se trata de un singular o un plural, la última o las dos últimas letras de la palabra desarrollada: 1r (primer), 2a (segona), 3rs (tercers), 4t (quart), 5è (cinquè).[3]​ Es opcional ponerles punto abreviativo. No es tradicional ni corriente emplear letras voladas,[4]​[5]​ aunque es posible hacerlo; en tal caso, se hace a la usanza del castellano, con punto antepuesto a la volada:[3]​ 8.è (vuitè), 17.ns (dissetens).
+
+
+=== Inglés ===
+En inglés se utilizan las siguientes combinaciones de letras:
+
+-st para los números terminados en 1 (p. ej.: 1st; 21st)
+-nd para los números terminados en 2 (p. ej.: 2nd; 22nd)
+-rd para los números terminados en 3 (p. ej.: 3rd; 23rd)
+-th para los números terminados en 11, 12 o 13, que hacen excepción a las reglas anteriores, y para todos los demás (p. ej.: 11th; 12th; 13th; 24th; 25th; 111th; 112th; 113th).Por influencia del francés, estas letras se acostumbraban a emplear en el pasado en forma volada (p. ej.: 2nd, 34th), pero hoy en día prevalece la colocación en la línea de base del texto.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Fundéu - Wikilengua: Número ordinal

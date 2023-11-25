@@ -1,0 +1,55 @@
+15.txt
+La e (en mayúscula E, nombre e, plural es o ees)[1]​ es la quinta letra del alfabeto español y del alfabeto latino básico y su segunda vocal. Tiene dos formas para el plural: es o ees, siendo más recomendada la primera.[1]​En las escuelas, suele formularse de la segunda manera, para hacer hincapié a los niños a escribir bien, especialmente en sus etapas de aprendizaje más tempranas.  
+Representa en español el sonido de una vocal media y anterior.[2]​
+
+
+== Historia ==
+La hê semítica probablemente representó inicialmente una oración o figura humana que se llamaba (hillul festejar), y probablemente estaba basada en un jeroglífico egipcio similar que era pronunciado y utilizado en forma distinta. En semítico, la letra representaba /h/ (y /e/ en palabras extranjeras), en griego hê se convirtió en Εψιλον (Epsilon) con el valor /e/. Los etruscos y romanos la empleaban de la misma forma. El uso en inglés puede ser distinto como consecuencia del Great Vowel Shift, o sea /iː/ (a partir de /eː/ como en las palabras inglesas «me» o «bee»), mientras que en otras palabras, como por ejemplo «bed»; la pronunciación es similar al latín y otras lenguas en uso.
+
+
+== Uso ==
+En español, la letra e, antiguamente se utilizaba como conjunción copulativa, proveniente del latín et.[3]​ Actualmente se utiliza la semivocal y /i/, excepto cuando se encuentra antes del sonido /i/ formando diptongo con la sucesiva, para evitar el hiato.[4]​ Aunque sí debe utilizarse y cuando comienza una frase empleándose de manera adverbial para expresar énfasis (por ejemplo «¿Y Inés?»).[4]​
+Ejemplos de palabras que empiezan con E: Elefante, Estambre, Estanque, Everest, Europa, Elisa, Eloy, etc.
+Se considera que es la letra que más se repite en los textos en español.[5]​[6]​ También es la más frecuente en los idiomas checo,[7]​ danés,[7]​ neerlandés,[7]​ inglés,[8]​ francés,[9]​ alemán,[10]​ húngaro,[7]​ latín,[7]​ noruego[7]​ y sueco.[7]​
+
+
+== Representaciones alternativas ==
+En alfabeto fonético aeronáutico se le asigna la palabra Eco.
+En código Morse es:  · 
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Códigos ==
+En Unicode la E mayúscula posee el código U+0045 y la e minúscula es U+0065.
+El código ASCII para la E mayúscula es 69 y para la e minúscula es 101; o en sistema binario 01000101 y 01100101, respectivamente.
+El código EBCDIC para la E mayúscula es 197 y para la e minúscula es 133.
+Las referencias numéricas en HTML y XML son «E» y «e» para la mayúscula y minúscula, respectivamente.
+
+
+== Otros significados ==
+En notación anglosajona representa la nota o acorde de mi.
+En matemáticas denota al número e.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre E.
+ Wikcionario  tiene definiciones y otra información sobre e.
+Diccionariosdigitales: letra E
