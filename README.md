@@ -26,7 +26,7 @@ sudo docker build -t hadoop .
 Para poder levantar el contenedor:
 ```sh
 docker run --name hadoop -p 9864:9864 -p 9870:9870 -p 8088:8088 -p 9000:9000 --hostname sd hadoop
-
+```
 ***Nota**: asegúrese que los puertos que está exponiendo se encuentran libres: **9864**, **9870**, **8088**, **9000***
 
 ## Entrar al contenedor
@@ -34,10 +34,9 @@ docker run --name hadoop -p 9864:9864 -p 9870:9870 -p 8088:8088 -p 9000:9000 --h
 docker exec -it hadoop bash
 ```
 ## Copiar los 30 docs dentro del contenedor
-Ya dentro de contendedor aplicamos los siquientes comandos para copiarlos a la carpeta /tmp.
-
-cp  /home/hduser/examples/Wikipedia/carpetaUno/* /tmp/
+Ya dentro de contendedor aplicamos los siquientes comandos para copiar los docs a la carpeta /tmp.
 ```sh
+cp  /home/hduser/examples/Wikipedia/carpetaUno/* /tmp/
 cp  /home/hduser/examples/Wikipedia/carpetaDos/* /tmp/
 ```
 ## Crear carpetas en el sistema de archivos de Hadoop
@@ -49,36 +48,25 @@ hdfs dfs -mkdir /user
 hdfs dfs -mkdir /user/hduser
 hdfs dfs -mkdir input	
 ```
-Algunos comandos de *hdfs* 
-	-mkdir  `crea un directorio`
-	 -ls        `lista los archivos de un directorio`
-	 -cat     `lista el contenido de un archivo`
-
-Pasamos el input al hdfs;
-	`hdfs dfs -put data-text.txt input`
 
 ## Crear carpetas para los txt de wikipedia dentro del contenedor hadoop
 ```sh
 hdfs dfs -mkdir /user/hduser/input/Uno
 hdfs dfs -mkdir /user/hduser/input/Dos
 ```
-## Copiar txt de wikipedia en el contenedor
-```sh
-docker cp nombreDelArchivo.txt idDelContenedorHadoopActivo:/tmp/
-```
 ## Copiar archivos txt al HDFS
+Nos posicionamos en donde están los 30 docs:
 ```sh
 cd /tmp/
-hdfs dfs -put nombreDeOtroArchivo.txt input/Uno
 ```
-*Hacer esto para cada archivo primero para (input/Uno), luego para (input/Dos)
-
-## Copiar códigos de mapper y reducer en /home/hduser
+Copiamos los primeros 15 doc para posicionarlos en las carpeta de HDFS creada:
 ```sh
-cat > mapper.py	
-cat > reducer.py
+hdfs dfs -put Daddy_Yankee.txt Héctor_el_Father.txt J_Álvarez.txt Ñengo_Flow.txt Cosculluela.txt Julio_Voltio.txt Ñejo_y_Dálmata.txt Arcángel_y_De_la_Ghetto.txt Don_Omar.txt Tego_Calderón.txt a.txt b.txt c.txt d.txt e.txt input/Uno
 ```
-*Se guarda con ctrl+D
+Copiamos los segundo 15 doc para posicionarlos en las carpeta de HDFS creada:
+```sh
+hdfs dfs -put  f.txt g.txt h.txt i.txt j.txt 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt 7.txt 8.txt 9.txt 10.txt input/Dos
+```
 
 ## Encontrar path al archivo 'hadoop-streaming.jar' dentro de hadoop
 ```sh
@@ -89,17 +77,20 @@ find / -name 'hadoop-streaming*.jar'
 ```sh
 hadoop jar /home/hduser/hadoop-3.3.4/share/hadoop/tools/lib/hadoop-streaming-3.3.4.jar -file /home/hduser/mapper.py -mapper mapper.py -file /home/hduser/reducer.py -reducer reducer.py -input /user/hduser/input/Uno/a.txt -input /user/hduser/input/Uno/b.txt -input /user/hduser/input/Uno/c.txt -input /user/hduser/input/Uno/d.txt -input /user/hduser/input/Uno/f.txt -input /user/hduser/input/Dos/g.txt -input /user/hduser/input/Dos/h.txt -input /user/hduser/input/Dos/j.txt -input /user/hduser/input/Dos/k.txt -input /user/hduser/input/Dos/l.txt -output /user/hduser/output
 ```
-## Copiar output (part-00000) desde HDFS al contenedor Docker
+## Copiar output (part-00000) desde HDFS al contenedor 
+Se copia en carpeta donde esta el scrip que convertirá el output a JSON:
 ```sh
-hdfs dfs -get /user/hduser/output/part-00000 /home/hduser/
+hdfs dfs -get /user/hduser/output/part-00000 /home/hduser/example/convertir_a_JSON
 ```
 
-## Hacer copia local del output (part-00000) en carpeta local
+## Convertimos a JSON
 ```sh
-docker cp idDelContenedor:/home/hduser/part-00000 /pathCompletoACarpeta
+ cd /home/hduser/example/convertir_a_JSON
+python3 convertir_a_json.py
 ```
 
-## Convertir output en .txt
+## Ejecutamos el buscador para realizar las consultas
 ```sh
-cat part-00000 > nuevoarchivo.txt
+cd ../buscador
+python3 buscador.py
 ```
