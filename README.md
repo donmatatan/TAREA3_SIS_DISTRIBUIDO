@@ -73,9 +73,9 @@ hdfs dfs -put  f.txt g.txt h.txt i.txt j.txt 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt
 find / -name 'hadoop-streaming*.jar'
 ```
 
-## Ejecutar mapreduce para cada txt (10)
+## Ejecutar mapreduce para cada txt (30)
 ```sh
-hadoop jar /home/hduser/hadoop-3.3.4/share/hadoop/tools/lib/hadoop-streaming-3.3.4.jar -file /home/hduser/mapper.py -mapper mapper.py -file /home/hduser/reducer.py -reducer reducer.py -input /user/hduser/input/Uno/a.txt -input /user/hduser/input/Uno/b.txt -input /user/hduser/input/Uno/c.txt -input /user/hduser/input/Uno/d.txt -input /user/hduser/input/Uno/f.txt -input /user/hduser/input/Dos/g.txt -input /user/hduser/input/Dos/h.txt -input /user/hduser/input/Dos/j.txt -input /user/hduser/input/Dos/k.txt -input /user/hduser/input/Dos/l.txt -output /user/hduser/output
+hadoop jar /home/hduser/hadoop-3.3.4/share/hadoop/tools/lib/hadoop-streaming-3.3.4.jar -file /home/hduser/examples/mapper.py -mapper mapper.py -file /home/hduser/examples/reducer.py -reducer reducer.py -input /user/hduser/input/Uno/Daddy_Yankee.txt -input /user/hduser/input/Uno/Héctor_el_Father.txt -input /user/hduser/input/Uno/J_Álvarez.txt -input /user/hduser/input/Uno/Ñengo_Flow.txt -input /user/hduser/input/Uno/Cosculluela.txt -input /user/hduser/input/Uno/Julio_Voltio.txt -input /user/hduser/input/Uno/Ñejo_y_Dálmata.txt -input /user/hduser/input/Uno/Arcángel_y_De_la_Ghetto.txt -input /user/hduser/input/Uno/Don_Omar.txt -input /user/hduser/input/Uno/Tego_Calderón.txt -input /user/hduser/input/Uno/a.txt -input /user/hduser/input/Uno/b.txt -input /user/hduser/input/Uno/c.txt -input /user/hduser/input/Uno/d.txt -input /user/hduser/input/Uno/e.txt -input /user/hduser/input/Dos/f.txt -input /user/hduser/input/Dos/g.txt -input /user/hduser/input/Dos/h.txt -input /user/hduser/input/Dos/i.txt -input /user/hduser/input/Dos/j.txt -input /user/hduser/input/Dos/1.txt -input /user/hduser/input/Dos/2.txt -input /user/hduser/input/Dos/3.txt -input /user/hduser/input/Dos/4.txt -input /user/hduser/input/Dos/5.txt -input /user/hduser/input/Dos/6.txt -input /user/hduser/input/Dos/7.txt -input /user/hduser/input/Dos/8.txt -input /user/hduser/input/Dos/9.txt -input /user/hduser/input/Dos/10.txt -output /user/hduser/output
 ```
 ## Copiar output (part-00000) desde HDFS al contenedor 
 Se copia en carpeta donde esta el scrip que convertirá el output a JSON:
